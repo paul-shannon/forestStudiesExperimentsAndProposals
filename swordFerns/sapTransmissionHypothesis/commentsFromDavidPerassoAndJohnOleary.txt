@@ -1,0 +1,84 @@
+----- Submitted by David in email (29 dec 2018)
+
+1. "Earlier disease transmission experiments involving soil have not resulted in symptomatic sword ferns."
+
+  Though this statement is obviously true, I would delete any reference to the soil experiments as
+  it’s too easy for someone who casually follows the work to jump to conclusions. As is stated later
+  in the proposal, there are possible reasons why soil transmission experiments have not yet
+  produced no results,among them: the age of the ferns, the soil used, the lack of “in the ground”
+  stresses, the possibility that the samples weren’t taken properly, storage of the samples before
+  use. IMHO we have only scratched the surface in testing for soil borne transmission.  I think it
+  is best to justify this experiment on its own, without reference to any other experiments. It’s
+  simply a test for Xylem transmission, a repeat of what Paul did earlier, and that’s enough.  If
+  you don’t want to delete the above statement, at least include the word “yet” at the end of the
+  sentence.
+
+2. We need a clear definition of a crinkly frond.
+
+  About 2 months ago, Paul provided me with 2 “crinkly” fronds. These were blended in water and
+  added to soil in which some small sword ferns were planted. So far, no sign of disease
+  transmission. (I’ll go into detail on what I did when I report results in a couple more months,
+  but obviously there were controls).  I was puzzled. I expected that if the disease could be
+  transmitted thru the water in a bottle, it should be transmittable thru the roots. After all, the
+  the mountain beavers aren’t going around putting fronds in beer bottles. Any transmission would
+  have to be thru the roots, wouldn’t it?  I don’t know the answer to that, but I took a look at the
+  photos of the fronds used in Paul’s experiment and compared them to the photos of the fronds in my
+  experiment and guess what, they look completely different (at least to me).  Take a look at the
+  photos in Pau’s report titled “bottleExperimentSummary-smallerImages.pdf.” In addition to the
+  fronds being wavy or curled, the tips of the pinnae are curled back and/or shriveled and look
+  desiccated. Actually I can’t be sure from the photos if those fronds are crispate or simple
+  shriveled up.  On the other hand, the fronds that Paul provided for my experiment looked perfectly
+  healthy, fully hydrated with clearly crispate distal pinnae edges.  I later checked with some fern
+  experts and Richie Steffans (one of the best fern people in the PNW) sent me pictures of perfectly
+  healthy Polystichum munitum with crispate pinnae and said there were several populations in WA
+  where crispate pinnae are common.  So, I’m wondering. Were the fronds I used actually infected or
+  not?  I assume that Paul took the fronds from an active die off area and probably from ferns that
+  showed other signs of die off. And maybe the crispate edges at Seward are really only happening on
+  infected ferns. I don’t know. My point is that we need a clear, repeatable definition of what a
+  “crispy” frond is.
+
+3. The fronds should be cut again right before placing them in the water. 15 seconds is a good time
+   limit before the frond begins to seal itself.
+
+4. Water source
+
+  It would be good to used distilled water (so there’s no chloramine in the water) and buffer the
+  pH. Multiple pH values could be used, e.g. ph=6, ph=7.5. Or the pH of the juices of a healthy
+  sword fern could be measured and the pH of the water set to that value (near it, anyway).  At the
+  very least I think it’s important to avoid municipal tap water which is buffered to be basic so it
+  won’t dissolve the lead in old pipes.
+
+4. Please remove my name from the participant list. I’m not doing this experiment.
+
+---- Submitted by John O'Leary in email (30 dec 2018)
+
+1. I definitely like David's comment "We need a clear definition of a crinkly frond." Definitely
+   worth some effort getting that done.
+
+2. In Marianne's proposal, having an intermediate step in between her first two rating steps might
+    be worthwhile, perhaps enough to show they are very likely symptomatic without being 100% crispate,
+    like this:
+
+	0 = healthy
+	1 = >25%
+	2 = "crinkly" symptom, all pinnae curved with "crinkly" edges, possible early stage of infection...
+
+3. Looking through this and your other material, it occurred to me that fronds physically touching
+   one another may allow transmission. I'm not sure if her experiment would be the place to test this,
+   as it would probably call for more samples. One thing I've noticed along animal trails is that the
+   fronds hanging into the trail itself are often the first to show contamination, that is, animals
+   would brush them while walking by, so some agent physically moving from frond to frond may be a
+   common way for the disease to travel.
+
+---- more from David (30 dec 2018)
+
+  Good points, John, especially the point about touching. I’d have to go back thru the proposal to
+  see if that is in there, but the experiment should make a clear choice between fronds touching
+  (i.e. the part out of the water touches), not touching or doubling the sample size and having some
+  touch and some not touch. It’s a variable that should be controlled.
+
+  And while I’m at it, the fronds should all be cleaned before being used to make sure that no
+  surface beasts or contaminants are unknowingly part of the experiment.
+
+  My apologies to Marianne who is putting in a lot of effort. It’s so much easier to be strict when
+  someone else is doing the experiment. I only wish I were as careful in my own experiments.
